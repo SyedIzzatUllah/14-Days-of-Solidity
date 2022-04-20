@@ -10,7 +10,7 @@ pragma solidity ^0.8.0;
 // "FirstContract" is the name of smart contract.
 
 contract FirstContract {
-    string public GM = "GoodMorning";
+    string public GM = "GoodMorning, ...! ";
     // Defining a new "string" data type called `GM` whose value is "GoodMorning".
     // The "public" keyword specifies that we can access this variable from outside the smart contract.
     // That means we can get its value from the smart contract any time.
